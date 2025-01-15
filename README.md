@@ -22,3 +22,8 @@ Create a website with a functional and adaptive phonebook using plain HTML, CSS 
 - HTML5
 - CSS3
 - JavaScript
+
+## Demonstrated skills
+
+- Work with events and DOM.
+- Create adaptive pages.
